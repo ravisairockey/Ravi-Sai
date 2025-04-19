@@ -1,7 +1,10 @@
 <!-- 🔥 Animated Banner Header -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=🎮%20Ravi%20Sai%20Vigneswara%20-%20Game%20Designer%20%26%20Developer&fontAlign=50&fontColor=ffffff&fontSize=30&color=gradient&height=120&desc=Welcome%20to%20my%20pixel-powered%20world%20of%20games&descAlign=50&descSize=16&descColor=fff" />
+p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%8E%AE%20Hi%2C%20I%27m%20Ravi%20Sai%20Vigneswara%21&fontColor=ffffff&fontSize=30&height=120&color=gradient"
+    alt="Animated Greeting Banner" 
+  />
 </p>
 
 <!-- 🧠 Typing Text Animation -->
