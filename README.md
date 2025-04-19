@@ -1,25 +1,11 @@
 <!-- 🔥 Animated Banner Header -->
-
-<!-- 1) Fully animated wave banner (capsule-render) -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:ff0080,100:0066ff&height=120" 
-    alt="Animated Wave Banner" 
-  />
-</p>
-
-<!-- 2) Spinning controller animation -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/controller.gif" 
-    width="200" 
-    alt="Game Controller Animation" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=🎮%20Ravi%20Sai%20Vigneswara%20-%20Game%20Designer%20%26%20Developer&fontAlign=50&fontColor=ffffff&fontSize=30&color=gradient&height=120&desc=Welcome%20to%20my%20pixel-powered%20world%20of%20games&descAlign=50&descSize=16&descColor=fff" />
 </p>
 
 <!-- 🧠 Typing Text Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Game+Designer+%26+Unity%2FUnreal+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Game+Designer+%26+Unity%2FUnreal+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -75,9 +61,9 @@
 ### 🚀 Featured Projects
 
 - 🔴 **Red Cells** – Tactical combat game with tile-based mechanics *(WIP)*
-- 🏛 **VR Museum** – Virtual heritage experience in Unreal Engine
+<!-- 🏛 **VR Museum** – Virtual heritage experience in Unreal Engine
 - 🧙‍♂️ **Unity Magic System** – Custom magic + damage systems with Game Kit
-- 📱 **AR Business Card** – Interactive card to showcase portfolio in real life
+- 📱 **AR Business Card** – Interactive card to showcase portfolio in real life -->
 
 > Explore more: [My Portfolio](https://ravisairockey.github.io/Game-Proto/)
 
