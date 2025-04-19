@@ -1,9 +1,19 @@
 <!-- 🔥 Animated Banner Header -->
 
+<!-- 1) Fully animated wave banner (capsule-render) -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%8E%AE%20Hi%2C%20I%27m%20Ravi%20Sai%20Vigneswara%21&fontColor=ffffff&fontSize=30&height=120&color=gradient"
-    alt="Animated Greeting Banner" 
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:ff0080,100:0066ff&height=120" 
+    alt="Animated Wave Banner" 
+  />
+</p>
+
+<!-- 2) Spinning controller animation -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/controller.gif" 
+    width="200" 
+    alt="Game Controller Animation" 
   />
 </p>
 
