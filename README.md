@@ -19,7 +19,7 @@
 
 <!-- 🧠 Typing Text Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Game+Designer+%26+Unity%2FUnreal+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Game+Designer+%26+Unity%2FUnreal+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
