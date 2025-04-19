@@ -112,7 +112,7 @@ Here’s how I approach every game I play or design:
 
 
 - 🔴 **Red Cells** – Tactical combat game with tile-based mechanics *(WIP)*
-- 🧙‍♂️ **Retro Portal** – Retro Games Collection [A](https://ravisairockey.github.io/Retro-Arcade/) 
+- 🧙‍♂️ **Retro Portal** – Retro Games Collection [Arcade](https://ravisairockey.github.io/Retro-Arcade/) 
 <!-- 🏛 **VR Museum** – Virtual heritage experience in Unreal Engine
 - 📱 **AR Business Card** – Interactive card to showcase portfolio in real life -->
 
