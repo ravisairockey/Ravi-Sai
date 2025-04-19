@@ -29,6 +29,31 @@
   </span>
 </p>
 
+---
+
+### 🧠 My Design Mindset
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&height=40&lines=Great+design+starts+with+great+questions." alt="Design Mindset Typing SVG" />
+</p>
+
+💭 **I don’t just finish levels — I pause, observe, and question.**  
+Here’s how I approach every game I play or design:
+
+- ❓ *Why does this mechanic behave the way it does?*
+- 🎯 *What was the creative intention behind this moment?*
+- 🧠 *Why is the UI laid out like this? Does it guide the player intuitively?*
+- 🎮 *What am I feeling as a player — and was that the designer’s goal?*
+
+🔍 This mindset lets me reverse-engineer great design choices and transform them into thoughtful, engaging player experiences.
+
+> *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+
+---
+
+
+
+
 
 ---
 
@@ -85,9 +110,10 @@
 
 ### 🚀 Featured Projects
 
+
 - 🔴 **Red Cells** – Tactical combat game with tile-based mechanics *(WIP)*
+- 🧙‍♂️ **Retro Portal** – Retro Games Collection [A](https://ravisairockey.github.io/Retro-Arcade/) 
 <!-- 🏛 **VR Museum** – Virtual heritage experience in Unreal Engine
-- 🧙‍♂️ **Unity Magic System** – Custom magic + damage systems with Game Kit
 - 📱 **AR Business Card** – Interactive card to showcase portfolio in real life -->
 
 > Explore more: [My Portfolio](https://ravisairockey.github.io/Game-Proto/)
