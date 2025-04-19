@@ -1,7 +1,9 @@
 <!-- 🔥 Animated Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=🎮%20Ravi%20Sai%20Vigneswara%20-%20Game%20Designer%20%26%20Developer&fontAlign=50&fontColor=ffffff&fontSize=30&color=gradient&height=120&desc=Welcome%20to%20my%20pixel-powered%20world%20of%20games&descAlign=50&descSize=16&descColor=fff" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl0bXZjbW9yeDl6Njc1Ynp1eWtmOTB2ZHRlZjNoMnhpOWNxcnR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhhGtrpj5ZxGZER5yC/giphy.gif" alt="Gaming Header" />
 </p>
+
+
 
 <!-- 🧠 Typing Text Animation -->
 <h1 align="center">
@@ -9,15 +11,31 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" alt="Game Dev Animation" />
+  <span style="display:inline-block; margin-right:32px; vertical-align:middle;">
+    <img
+      src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+      width="350"
+      height="260"
+      alt="Game Dev Animation"
+    />
+  </span>
+  <span style="display:inline-block; vertical-align:middle;">
+    <img
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F3ZWhtOTRoMWpqdmUwM3pxeXhxdTJsYThwdXU5c3ZhcnM1dmVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BNvW3cNM9hr1e/giphy.gif"
+      width="360"
+      height="260"
+      alt="Gaming GIF"
+    />
+  </span>
 </p>
+
 
 ---
 
 ### 🎮 About Me
 
 ```diff
-+ 👾 Aspiring Game Designer & Unity/Unreal Developer (2+ years)
++ 👾 Aspiring Game Designer & Unity/Unreal Developer
 + 💡 Freelance Graphic Designer & Level Designer
 + 🌱 Passionate about prototyping, storytelling, and pixel perfection
 ```
@@ -41,7 +59,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="50" title="Maya" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/houdini/houdini-original.svg" width="50" title="Houdini" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
 </p>
+
 
 ---
 
