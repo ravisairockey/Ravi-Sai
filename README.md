@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Banner Header -->
 
-p align="center">
+<p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%8E%AE%20Hi%2C%20I%27m%20Ravi%20Sai%20Vigneswara%21&fontColor=ffffff&fontSize=30&height=120&color=gradient"
     alt="Animated Greeting Banner" 
