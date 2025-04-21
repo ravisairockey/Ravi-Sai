@@ -143,9 +143,15 @@ Here’s how I approach every game I play or design:
 
 ---
 
-#SPOTIFY🎧💓
+### 🎧 Currently Grooving To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<p align="center"><i>Fueling my design flow with every beat 💫🎮</i></p>
 
 <!-- ✨ Animated Footer -->
 <p align="center">
