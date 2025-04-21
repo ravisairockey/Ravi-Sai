@@ -143,7 +143,11 @@ Here’s how I approach every game I play or design:
 
 ---
 
-### 🎧Currently Grooving To On SPOTIFY💓
+### 🎧 Currently Grooving To On SPOTIFY💓
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF24C5&width=500&lines=Listening+to+the+vibes...;Immersed+in+the+rhythm...;Fueled+by+beats+and+code!" alt="Listening Animation" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
