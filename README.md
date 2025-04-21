@@ -146,6 +146,7 @@ Here’s how I approach every game I play or design:
 #SPOTIFY🎧💓
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- ✨ Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=footer" />
