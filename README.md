@@ -151,7 +151,7 @@ Here’s how I approach every game I play or design:
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
