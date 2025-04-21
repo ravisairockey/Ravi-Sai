@@ -143,7 +143,7 @@ Here’s how I approach every game I play or design:
 
 ---
 
-### 🎧 Currently Grooving To
+### 🎧Currently Grooving To On SPOTIFY💓
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
